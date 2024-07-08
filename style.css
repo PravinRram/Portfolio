@@ -25,6 +25,12 @@ body {
     color: var(--text-color);
 }
 
+img {
+    color: var(--second-bg-color);
+    font-weight: bolder;
+    font-size: 10px;
+}
+
 .header {
     position: fixed;
     top: 0;
