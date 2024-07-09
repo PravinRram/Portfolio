@@ -502,7 +502,7 @@ span {
     margin: 4rem auto;
 }
 
-.home-announcement {
+section .home-announcement {
     background: transparent;
     text-align: center;
     border: 2px solid #8575F5;
