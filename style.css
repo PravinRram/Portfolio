@@ -509,8 +509,8 @@ span {
     align-items: center;
     justify-content: center;
     width: 95%;
-    margin: 20px auto;
-    color: #8575F5;
+    margin: 100px auto;
+    color: var(--text-color);
     padding: 7px;
     border-radius: 220px;
   }
