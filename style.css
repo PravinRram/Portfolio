@@ -501,17 +501,3 @@ span {
     flex-direction: row;
     margin: 4rem auto;
 }
-
-section .home-announcement {
-    background: transparent;
-    text-align: center;
-    border: 2px solid #8575F5;
-    align-items: center;
-    justify-content: center;
-    width: 95%;
-    margin: 100px auto;
-    max-height: 40px;
-    color: var(--text-color);
-    padding: 7px;
-    border-radius: 220px;
-  }
