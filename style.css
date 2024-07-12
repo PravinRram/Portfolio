@@ -501,3 +501,31 @@ span {
     flex-direction: row;
     margin: 4rem auto;
 }
+
+.home-ann {
+    background: transparent;
+    min-height: 40px !important;
+    text-align: center;
+    border: 2px solid var(--main-color);
+    align-items: center;
+    justify-content: center;
+    width: 95%;
+    margin: 20px auto;
+    color: var(--text-color);
+    padding: 7px;
+    border-radius: 200px;
+}
+
+sectiom .home-ann {
+    background: transparent;
+    min-height: 40px !important;
+    text-align: center;
+    border: 2px solid var(--main-color);
+    align-items: center;
+    justify-content: center;
+    width: 95%;
+    margin: 20px auto;
+    color: var(--text-color);
+    padding: 7px;
+    border-radius: 200px;
+}
